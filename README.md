@@ -11,7 +11,7 @@ This project focuses on applying data analytics techniques to the sales domain. 
 - Power BI
 
 ## Contributors 
-- Kartik Bisht : [LinkedIn](www.linkedin.com/in/kartikbisht09)
+- Kartik Bisht : [LinkedIn](https://www.linkedin.com/in/kartikbisht09/)
 - Sneha : [LinkedIn](https://www.linkedin.com/in/sneha5o7/)
 
 ### Thanks for exploring the project! Your feedback is welcome.
