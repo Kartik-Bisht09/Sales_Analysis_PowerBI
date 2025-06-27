@@ -12,6 +12,6 @@ This project focuses on applying data analytics techniques to the sales domain. 
 
 ## Contributors 
 - Kartik Bisht : [LinkedIn](www.linkedin.com/in/kartikbisht09)
-- Sneha : [LinkedIn](www.linkedin.com/in/sneha5o7/)
+- Sneha : [LinkedIn]([www.linkedin.com/in/sneha5o7/](https://www.linkedin.com/in/sneha5o7/))
 
 ### Thanks for exploring the project! Your feedback is welcome.
